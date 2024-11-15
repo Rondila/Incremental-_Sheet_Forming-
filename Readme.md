@@ -45,4 +45,13 @@ A comet-style animation shows the movement of the tool.
 
 ![Tool_Path](https://github.com/user-attachments/assets/983681fc-a64c-42a4-9ebe-70e00c117165)
 
+Please refer to this article for more details
 
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
+
+The International Journal of Advanced Manufacturing Technology (2022) 
+https://doi.org/10.1007/s00170-022-08698-z
