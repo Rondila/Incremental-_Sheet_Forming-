@@ -10,6 +10,7 @@ Number of steps for discretization.
 Outputs the toolpath coordinates in CSV or Excel format.
 Computes the total path length of the tool.
 Animates the toolpath using matplotlib for visualization.
+![Capture d’écran 2024-11-14 090850](https://github.com/user-attachments/assets/f1d77e13-76ea-42dd-8316-608a7ace35ca)
 
 ## Requirements
 The project requires Python 3.6 or later with the following libraries installed:
